@@ -22,3 +22,7 @@ The dataset was manually created using SQL insertions and includes:
 - `customers`: Customer details
 - `transactions`: Sales transactions including amount, product code, currency, market
 - `date`: Calendar table with month/year attributes
+
+## Schema Used
+<img width="1075" height="591" alt="image" src="https://github.com/user-attachments/assets/0a059eb2-5123-465c-8aa7-7de58b7396fc" />
+
